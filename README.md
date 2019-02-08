@@ -1,6 +1,6 @@
 # GoTwitter
 
-![Aplicação](screenshots.png "Arquivo App.js")
+![Aplicação](screenshot.png "Interface")
 
 Twitter-like WebApp feito em ReactJs, com Express, Axios, Socket.io e outros módulos.
 
